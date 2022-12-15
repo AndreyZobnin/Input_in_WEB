@@ -1,0 +1,32 @@
+html {
+    background-color: azure;
+
+}
+h1 {
+    color: rgb(19, 78, 187);
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Teddy Bear';
+ }
+h2 {
+    color: #7ec210;
+    font-size: 25px;
+}
+h3 {
+   color: #133f70; 
+}
+h4 {
+    list-style-type: square;
+}
+a {
+    font-size: 30px;
+}
+@font-face {
+	font-family: 'Teddy Bear';
+	src: url('fonts/teddy_bear.eot'); /* IE 9 Compatibility Mode */
+	src: url('fonts/teddy_bear.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('fonts/teddy_bear.woff2') format('woff2'), /* Super Modern Browsers */
+		url('fonts/teddy_bear.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('fonts/teddy_bear.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('fonts/teddy_bear.svg#teddy_bear') format('svg'); /* Chrome < 4, Legacy iOS */
+}
