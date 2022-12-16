@@ -30,3 +30,8 @@ a {
 		url('fonts/teddy_bear.ttf') format('truetype'), /* Safari, Android, iOS */
 		url('fonts/teddy_bear.svg#teddy_bear') format('svg'); /* Chrome < 4, Legacy iOS */
 }
+
+    .robot {
+        text-align: center;
+
+    }
