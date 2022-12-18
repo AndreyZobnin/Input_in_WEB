@@ -1,5 +1,5 @@
 const userName = prompt("Привет amigo! Напиши как тебя зовут?");
-function hello(name) {
+function greeting(name) {
     return alert(`Привет, ${name}!`);
     }
-hello(userName)
+    greeting(userName)
